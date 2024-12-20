@@ -51,3 +51,16 @@ The analysis focused on:
 - Future work includes hyperparameter tuning and experimenting with advanced algorithms like Random Forest or XGBoost.
 
 ---
+## Dataset
+
+The dataset is sourced from [Kaggle](https://www.kaggle.com).
+
+## How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/krishanmohan93/SCT_DS_02.git
+
+   
+   cd Titanic-Dataset-Analysis
+   pip install -r requirements.txt
